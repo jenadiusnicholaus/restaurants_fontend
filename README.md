@@ -8,9 +8,7 @@ The leaderboard website displays scores submitted by different players, it meant
 
 ## Milestones
 
-- Milestone 1: basic page structure.
-- Milestone 2: send and receive data from API.
-- Milestone 3: final touches.
+- here
 
 ## Live Demo
 
@@ -23,9 +21,9 @@ To get a local copy up and running follow these simple example steps.
 ```node
  ==Type  these command in terminal to get started==
 
- git clone https://github.com/jenadiusnicholaus/Leaderboard.git
+ git clone git@github.com:jenadiusnicholaus/restaurants_fontend.git
 
- cd Leaderboard
+ cd restaurants_fontend
 
  ==install the dependences==
 
@@ -36,10 +34,6 @@ To get a local copy up and running follow these simple example steps.
   run: npm start
 
 ```
-
-## Screenshot of the project
-
-<img width="1268" alt="Screen Shot 2022-04-14 at 20 05 47" src="./src/leaderBoard.png">
 
 👤 **Author1**
 
@@ -57,7 +51,6 @@ Give a ⭐️ if you like this project!s
 
 ## Acknowledgments
 
-- Microverse
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
