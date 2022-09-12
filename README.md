@@ -1,4 +1,5 @@
-# Leader Board website
+# Restaurants Fontend
+
 
 The leaderboard website displays scores submitted by different players, it meant a play gets unique id for the Game session and from there can be allowed to play the game and to do that i used Leaderboard API using JavaScript async and await and add simple styling.
 
